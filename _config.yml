@@ -9,13 +9,13 @@ baseurl:
 # Title of the Site
 title: Depeng Kong #What A Theme
 # Description of the Site
-description: My Personal Bolg Site #A customizable Jekyll portfolio theme
+description: Welcome to My Personal Blog #A customizable Jekyll portfolio theme
 # URL of Image of the Site
 site-image: /assets/images/Icon.jpg
 # Keywords of the Site
 site-keywords: Resume, Blogs, projects #Site, Template, Theme
 # URL for the Image of custom Favicon
-favicon-url: 
+favicon-url: /assets/images/Icon.jpg
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
