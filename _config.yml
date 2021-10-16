@@ -46,9 +46,7 @@ author-name: Depeng Kong #TheDevsLot
 # URL for the Image of the Author
 author-image: /assets/images/kdp-life_.jpg #https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
 # 60 Words About the Author
-author-about: I am currently a Ph.D. student in School of Mechanical Engineering, Zhejiang University, Hangzhou, P.R. China. My research interests include Deep Learning, 
->Reinforcement Learning and their applications in electronical skins and robot control. This is my personal blog, some of my research projects, progress as well as study notes will
->be published here. Besides, some source codes of my research work may be available at my GitHub (DepengKong-zju).
+author-about: I am currently a Ph.D. student in School of Mechanical Engineering, Zhejiang University, Hangzhou, P.R. China. My research interests include Deep Learning, Reinforcement Learning and their applications in electronical skins and robot control. This is my personal blog, some of my research projects, progress as well as study notes will be published here. Besides, some source codes of my research work may be available at my GitHub (DepengKong-zju).
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/DepengKong-zju #@https://github.com/thedevslot
 
