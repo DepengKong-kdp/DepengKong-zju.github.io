@@ -1,4 +1,4 @@
-- name: Co-Design
+- name: Computation-Sensor Co-Design
   image: /assets/images/overview.png #https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
   link: https://depengkong-zju.github.io/Computation-Sensor-Co-Design/
   description: Computation-Sensor Co-Design for Robotic Tactile Sensing with Training Data Augmentation
